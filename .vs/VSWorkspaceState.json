@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\deep_sort_pytorch",
+    "\\deep_sort_pytorch\\deep_sort\\deep",
+    "\\deep_sort_pytorch\\deep_sort\\sort",
+    "\\runs\\detect",
+    "\\yolov5",
+    "\\yolov5\\models"
+  ],
+  "SelectedNode": "\\yolov5\\weights",
+  "PreviewInSolutionExplorer": false
+}
